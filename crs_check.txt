@@ -1,0 +1,4 @@
+roads_crs: EPSG:25000
+admin_crs: EPSG:25000
+roads_count: 374753
+admin_count: 16

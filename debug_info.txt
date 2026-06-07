@@ -1,0 +1,4 @@
+roads_crs=EPSG:25000
+admin_crs=EPSG:25000
+admin_fields=['fid', 'adm1_name', 'adm1_name1', 'adm1_name2', 'adm1_name3', 'adm1_pcode', 'adm0_name', 'adm0_name1', 'adm0_name2', 'adm0_name3', 'adm0_pcode', 'valid_on', 'valid_to', 'area_sqkm', 'cod_versio', 'lang', 'lang1', 'lang2', 'lang3', 'adm1_ref_n', 'center_lat', 'center_lon']
+roads_fields=['fid', 'id', 'name', 'name_en', 'highway', 'surface', 'smoothness', 'width', 'lanes', 'oneway', 'bridge', 'layer', 'source', 'adm0_pcode', 'adm0_name', 'adm1_pcode', 'adm1_name', 'adm2_pcode', 'adm2_name', 'adm3_pcode', 'adm3_name', 'adm4_pcode', 'adm4_name', 'name_latin']

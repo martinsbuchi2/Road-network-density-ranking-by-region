@@ -1,0 +1,114 @@
+[
+  {
+    "region": "Greater Accra",
+    "road_km": 21237.22,
+    "area_sqkm": 3699.33,
+    "density": 5.7408,
+    "rank": 1
+  },
+  {
+    "region": "Central",
+    "road_km": 11169.43,
+    "area_sqkm": 9663.53,
+    "density": 1.1558,
+    "rank": 2
+  },
+  {
+    "region": "Ashanti",
+    "road_km": 22839.87,
+    "area_sqkm": 24379.39,
+    "density": 0.9369,
+    "rank": 3
+  },
+  {
+    "region": "Upper East",
+    "road_km": 7284.86,
+    "area_sqkm": 8622.27,
+    "density": 0.8449,
+    "rank": 4
+  },
+  {
+    "region": "Volta",
+    "road_km": 8095.51,
+    "area_sqkm": 9825.09,
+    "density": 0.824,
+    "rank": 5
+  },
+  {
+    "region": "Eastern",
+    "road_km": 14205.23,
+    "area_sqkm": 18965.83,
+    "density": 0.749,
+    "rank": 6
+  },
+  {
+    "region": "Ahafo",
+    "road_km": 3819.4,
+    "area_sqkm": 5194.97,
+    "density": 0.7352,
+    "rank": 7
+  },
+  {
+    "region": "Bono",
+    "road_km": 8223.71,
+    "area_sqkm": 11646.89,
+    "density": 0.7061,
+    "rank": 8
+  },
+  {
+    "region": "Western",
+    "road_km": 9558.25,
+    "area_sqkm": 14258.33,
+    "density": 0.6704,
+    "rank": 9
+  },
+  {
+    "region": "Northern",
+    "road_km": 14735.57,
+    "area_sqkm": 24849.33,
+    "density": 0.593,
+    "rank": 10
+  },
+  {
+    "region": "Oti",
+    "road_km": 5076.05,
+    "area_sqkm": 11065.96,
+    "density": 0.4587,
+    "rank": 11
+  },
+  {
+    "region": "Western North",
+    "road_km": 4580.6,
+    "area_sqkm": 10074.82,
+    "density": 0.4547,
+    "rank": 12
+  },
+  {
+    "region": "Upper West",
+    "road_km": 7791.68,
+    "area_sqkm": 19033.47,
+    "density": 0.4094,
+    "rank": 13
+  },
+  {
+    "region": "Northern East",
+    "road_km": 3208.71,
+    "area_sqkm": 9074.64,
+    "density": 0.3536,
+    "rank": 14
+  },
+  {
+    "region": "Bono East",
+    "road_km": 7579.36,
+    "area_sqkm": 23256.38,
+    "density": 0.3259,
+    "rank": 15
+  },
+  {
+    "region": "Savannah",
+    "road_km": 9849.11,
+    "area_sqkm": 35863.01,
+    "density": 0.2746,
+    "rank": 16
+  }
+]

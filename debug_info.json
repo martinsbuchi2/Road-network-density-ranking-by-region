@@ -1,0 +1,42 @@
+{
+  "roads_crs": "EPSG:25000",
+  "admin_crs": "EPSG:25000",
+  "roads_count": 374753,
+  "admin_count": 16,
+  "admin_fields": [
+    "fid",
+    "adm1_name",
+    "adm1_name1",
+    "adm1_name2",
+    "adm1_name3",
+    "adm1_pcode",
+    "adm0_name",
+    "adm0_name1",
+    "adm0_name2",
+    "adm0_name3",
+    "adm0_pcode",
+    "valid_on",
+    "valid_to",
+    "area_sqkm",
+    "cod_versio",
+    "lang",
+    "lang1",
+    "lang2",
+    "lang3",
+    "adm1_ref_n",
+    "center_lat",
+    "center_lon"
+  ],
+  "roads_fields": [
+    "fid",
+    "id",
+    "name",
+    "name_en",
+    "highway",
+    "surface",
+    "smoothness",
+    "width",
+    "lanes",
+    "oneway"
+  ]
+}

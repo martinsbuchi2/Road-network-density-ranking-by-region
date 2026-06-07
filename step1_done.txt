@@ -1,0 +1,1 @@
+intersection output: C:\Users\Marti\Desktop\INTEGRATION\CV\MACRO 1\TASK\17 - 23 - May - 26\GHANA DATA\PROJECTS\24-31-26\Road network density ranking by region\roads_intersected.gpkg
